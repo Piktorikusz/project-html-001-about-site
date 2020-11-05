@@ -24,12 +24,16 @@ nav ul {
 
 }
 nav li {
-    display: inline-block;
     margin: 0% 140px;
     padding-bottom: 40px;
+    display: inline-block;
+}
+.Bemutatkozó {
+    text-align: center;
 }
 .főoldalkep {
     margin: 20px;
+    align-items: center;
 }
 .Főoldalkep {
     width: 400px;
