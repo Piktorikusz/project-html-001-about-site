@@ -29,7 +29,12 @@ nav li {
     padding-bottom: 40px;
 }
 .főoldalkep {
-    display: inline;
+    margin: 20px;
+}
+.Főoldalkep {
+    width: 400px;
+    height: 200px;
+    float: center;
 }
 .projekt {
     float: left;
